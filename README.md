@@ -1,6 +1,6 @@
 
 
-## 🛠️ Tech Stack
+## What I'm Familiar With
 
 ### AI / Machine Learning
 
