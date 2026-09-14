@@ -1,4 +1,4 @@
-## Nerd stuff
+## Stuff i can do ig
 
 **Programming Languages**
 
