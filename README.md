@@ -1,5 +1,4 @@
-## AI, FPGA, Webdev, idk bruh everything
-
+## Nerd Stack
 **AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
