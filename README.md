@@ -1,4 +1,4 @@
-## Tech Stack
+## AI, FPGA, Webdev, idk bruh everything
 
 **AI / ML**
 
